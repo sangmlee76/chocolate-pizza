@@ -1,0 +1,100 @@
+body{
+  background-color: white;
+  width: 960px;
+  height: 1500px;
+  margin: 0 auto;
+}
+
+#logo img{
+  float: left;
+
+}
+
+#social img{
+   
+}
+
+#social{
+  max-width: 280px;
+  margin-left: 671px;
+  margin-bottom: 30px;
+}
+
+#pint{
+  margin-right: 5px;
+}
+
+#logo h5{
+  font-size: 6px;
+  color: rgba(128, 128, 128, 0.808);
+}
+
+header{
+  border-bottom: 5px solid gray;
+   
+
+}
+
+main section h2{
+  font-family: 'Do Hyeon', sans-serif;
+  font-size: 30px;
+  margin-top: 40px;
+}
+
+#chocolatetitle{
+  max-width: 400px;
+}
+
+main section h5{
+  font-size: 10px;
+}
+
+#print img{
+  float: left;
+}
+
+#print p{
+  font-size: 10px;
+}
+
+#print{
+  margin-left: 860px;
+}
+
+#chocolatetitle h5{
+  float: left;
+  color: rgba(128, 128, 128, 0.808);
+}
+
+#chocopizza{
+  margin-top: 25px;
+}
+
+main section p{
+  text-align: left;
+  font-size: 20px;
+  width: 905px;
+  text-indent: 25px;
+  margin: 15px 0px;
+  color: gray;
+  font-weight: lighter;
+}
+
+#list{
+  background-image: url("../img/list-bg.png");
+  width: 902px;
+  height: 305px;
+  font-size: 25px;
+}
+
+#listone{
+  float:left;
+  margin-right: 90px;
+  margin-top: 40px;
+  margin-left: 70px;
+  
+}
+
+#listtwo{
+  padding-top: 40px;
+}
