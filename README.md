@@ -7,7 +7,10 @@ I build an app with a direct and powerful purpose. It does all of the things tha
 
 ### Links and Resources
 + submission PR
-+ Any Links you used as reference
++ https://fonts.google.com/
+https://www.w3schools.com/charsets/ref_html_entities_4.asp
+
+
 
 ### Reflections and Comments
 + Consider including the answers to your daily journal and submission questions here
