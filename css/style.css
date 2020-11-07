@@ -18,6 +18,7 @@ body{
   max-width: 280px;
   margin-left: 671px;
   margin-bottom: 30px;
+  margin-top: -20px;
 }
 
 #pint{
@@ -25,12 +26,14 @@ body{
 }
 
 #logo h5{
-  font-size: 6px;
+  font-size: 11px;
   color: rgba(128, 128, 128, 0.808);
+  margin-left: 50px;
+  width: 400px;
 }
 
 header{
-  border-bottom: 5px solid gray;
+
    
 
 }
@@ -55,10 +58,12 @@ main section h5{
 
 #print p{
   font-size: 10px;
+  
 }
 
 #print{
   margin-left: 860px;
+  
 }
 
 #chocolatetitle h5{
@@ -70,7 +75,7 @@ main section h5{
   margin-top: 25px;
 }
 
-main section p{
+main section p:not(#printp){
   text-align: left;
   font-size: 20px;
   width: 905px;
@@ -97,4 +102,39 @@ main section p{
 
 #listtwo{
   padding-top: 40px;
+}
+
+.stretch{
+  background-image: url(../img/hr-img.png);
+  border-right-width: 0px;
+  border-right-style: solid;
+  max-width: 903px;
+
+}
+
+#printp{
+  font-size: 10px;
+  color: rgba(128, 128, 128, 0.808);
+}
+#logo{
+  margin-top: 40px;
+  font-size: 40px;
+}
+
+header section h3 {
+  margin-left: 49px;
+  width: 400px;
+}
+
+#footstretch{
+  margin-top: 30px;
+  margin-bottom: 21px;
+}
+
+#vanessa img{
+  float: left;
+}
+
+footer section button{
+  float: right;
 }
